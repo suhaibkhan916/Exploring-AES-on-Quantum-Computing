@@ -1,0 +1,2 @@
+Hello, this is the first text file for AES encryption testing. 
+We are measuring the execution time for this text.

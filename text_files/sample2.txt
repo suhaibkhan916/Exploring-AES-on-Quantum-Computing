@@ -1,0 +1,3 @@
+The second text file contains a bit more text. 
+We want to see how the encryption time changes with different lengths of text. 
+This will help us understand the performance characteristics of the AES algorithm.

@@ -1,0 +1,4 @@
+Finally, this is the fourth text file. 
+It is the longest of the four text files used in this analysis. 
+By using a variety of text lengths, we can generate a more complete picture of the AES algorithm's performance.
+This final file should provide the most comprehensive data point.

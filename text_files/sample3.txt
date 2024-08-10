@@ -1,0 +1,3 @@
+This is the third text file. It is slightly longer than the second file and contains multiple lines of text. 
+Each line adds to the total length of the text, which should affect the encryption time. 
+The goal is to gather comprehensive data for analysis.
