@@ -8,17 +8,13 @@ This project explores advanced quantum computing algorithms focusing on cryptogr
 
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Maintainers](#maintainers)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Requirements
 
 This project requires a Python environment and Qiskit, a quantum computing SDK. The required Python libraries are specified in the `requirements.txt` file.
 
-### Dependencies
+### Installation
 
 - Qiskit 1.1.1
 - Python 3.8+
